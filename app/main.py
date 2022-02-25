@@ -17,7 +17,6 @@ app = FastAPI()
 
 origins = [
     "https://www.google.com",
-    "http://localhost",
     "http://localhost:8080",
 ]
 
