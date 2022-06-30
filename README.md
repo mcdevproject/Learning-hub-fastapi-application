@@ -1,3 +1,3 @@
-## Learning Repo - FastAPI framwork
+## Learning Repo - FastAPI framework
 
 Hi, this is a repo for learning FastAPI...
